@@ -1,5 +1,5 @@
 # POSTMAN
-Postman Collection and Environment JSON Files
+Postman Collection and Environment JSON Files.
 
 This repo contains the collection and environment JSON files that I have done using Postman. The collection is tested using the Contact List Documentation found on Postman website https://documenter.getpostman.com/view/401288/SWLceUSf. You will find 2 folders in the collection which are Basic Endpoint Tests and Negative Tests. For Basic Endpoint Tests I have created a GET request, POST request, PUT request and DELETE request. As for the Negative Tests, I have come out with some scenarios where the user might generate invalid requests such as invalid IDs, company name too long and etc.
 
