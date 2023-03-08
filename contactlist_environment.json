@@ -1,0 +1,27 @@
+{
+	"id": "b29604d4-6d9c-4a33-adde-5633fdf40e39",
+	"name": "Contact List",
+	"values": [
+		{
+			"key": "firstName",
+			"value": "Robert",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "lastName",
+			"value": "Einstein",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "contactId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2023-03-08T05:09:04.222Z",
+	"_postman_exported_using": "Postman/10.6.0"
+}
